@@ -1,0 +1,13 @@
+# Ignore compiler project files
+*.atools
+*.amake
+*.amake.bk
+*.o
+*.app
+mrweprefs.r
+project.r
+absoft_run_env.sh
+
+
+# Ignore Mac OS X system files
+.DS_Store
